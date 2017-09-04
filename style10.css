@@ -1,0 +1,48 @@
+body{
+background-color: #E8E6E6;
+margin: 50px;
+}
+
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 3em;
+    color: #FFA800;
+    font-weight: 500;
+    background: black;
+    padding: 10px;
+
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+    color: green;
+    font-size: 1.5em;
+    font-style: italic;
+}
+
+p{
+    border: 4px double lightsalmon;
+    padding: 20px;
+    background-color:black;
+    color: #FFA800;
+}
+h3{
+    font-family: Courier New, Courier, monospace;
+    font-weight: 600;
+    font-style: italic;
+    background: black;
+    color: #FFA800;
+    padding: 10px;
+}
+
+ul,ol{
+    font-family: Courier New, Courier, monospace;
+    border: 2px solid lightsalmon;
+    background: white;
+    font-size: 1em;
+}
+
+li{
+    padding: 10px;
+    background: white;
+}
